@@ -1,9 +1,9 @@
 # wemos-esp8266-wifi-ap
-WiFi access point or WiFi extender using low cost wemos D1 mini pro based on esp8266 chip. Using (platform.io)[https://platformio.org/] as base tool to program and burn. Supports ipv4.
+WiFi access point or WiFi extender using low cost wemos D1 mini pro based on esp8266 chip. Using [platform.io](https://platformio.org/) as base tool to program and burn. Supports ipv4.
 
 # Pre-requisites
 - VSCode installed
-- PlatformIO (setup)[https://docs.platformio.org/en/latest/integration/ide/vscode.html#installation]
+- PlatformIO [setup](https://docs.platformio.org/en/latest/integration/ide/vscode.html#installation)
 - Wemos D1 mini pro
 
 # How to run ?
