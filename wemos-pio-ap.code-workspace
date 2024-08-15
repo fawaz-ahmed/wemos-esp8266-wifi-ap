@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "WemosPIOArduino",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpio.h": "c",
+			"esp_wifi.h": "c",
+			"esp_system.h": "c",
+			"esp8266.h": "c",
+			"esp_event.h": "c",
+			"esp_common.h": "c",
+			"sdkconfig.h": "c"
+		}
+	}
+}
